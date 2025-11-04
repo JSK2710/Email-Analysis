@@ -31,16 +31,16 @@ CoCanDa, a planet known as 'The Heaven of the Universe' has been having a bad ye
 | **Source of Email** | User-reported |
 | **Email Received Date & Time** |  Tue, 26 Jan 2021 01:41:18 -0500 (EST) |
 | **Email Subject** | A Hope to CoCanDa |
-| **Sender Name & Address** | Bill & billjobs@microapple.com |
-| **Reply-to** | negeja3921@pashter.com |
-| **Recipient(s)** | themajoronearth@gmail.com |
+| **Sender Name & Address** | Bill & billjobs[@]microapple[.]com |
+| **Reply-to** | negeja3921[@]pashter[.]com |
+| **Recipient(s)** | themajoronearth[@]gmail[.]com |
 | **Reported By** | Army Major |
 
 ---
 
 ### 2. **Initial Observation**
 
-- The email was sent from an unauthorized mail server. The SPF check **failed** indicating the sender IP **93.99.104.210** is **not authorized** to send mail on behalf of **microapple.com**.
+- The email was sent from an unauthorized mail server. The SPF check **failed** indicating the sender IP **93[.]99[.]104[.]210** is **not authorized** to send mail on behalf of **microapple.com**.
 - The **“Received”** header shows the message originated from **localhost (emkei.cz)**, which is a known **fake email generator service**, confirming potential spoofing or social engineering intent.
 - The **“Reply-To”** address (`negeja3921@pashter.com`) differs from the “From” address (`billjobs@microapple.com`), suggesting an attempt to redirect replies to a different malicious or attacker-controlled account.
 - The email is of type **multipart/mixed**, indicating multiple parts — a **plain text body** and an **attachment**.
@@ -54,14 +54,14 @@ CoCanDa, a planet known as 'The Heaven of the Universe' has been having a bad ye
 
 | Header Field | Observation |
 | --- | --- |
-| **Return-Path** | billjobs@microapple.com |
-| **Received From** | localhost (emkei.cz [93.99.104.210]) |
+| **Return-Path** | billjobs[@]microapple[.]com |
+| **Received From** | localhost (emkei[.]cz [93[.]99[.]104[.]210]) |
 | **SPF Record** | Fail |
 | **DKIM Signature** | Not Present |
 | **DMARC Alignment** | Not Present |
-| **Originating IP** | 93.99.104.210 |
+| **Originating IP** | 93[.]99[.]104[.]210 |
 | **Geolocation of IP** | Czechia |
-| **Reverse DNS / WHOIS Info** | moaningrail.gb.net |
+| **Reverse DNS / WHOIS Info** | moaningrail[.]gb[.]net |
 
 IP Lookup
 
@@ -113,14 +113,14 @@ See you Major. Waiting for the Cassshhhh💰
 
 | Domain | Verdict |
 | --- | --- |
-| microapple.com | Legit |
-| pashter.com | Malicious |
+| microapple[.]com | Legit |
+| pashter[.]com | Malicious |
 
 Virustotal results on microapple.com
 
 ![image.png](/Case-EA001/Images/image%203.png)
 
-Virustotal result on pashter.com
+Virustotal result on pashter[.]com
 
 ![image.png](/Case-EA001/Images/image%204.png)
 
@@ -182,16 +182,17 @@ The Martian Colony, Beside Interplanetary Spaceport.
 ```
 
 ---
+**Note:** Use cyberchef fang option for normal Links, IP's, and Emails.
 
 ### Questions & Answers
 
 What is the email service used by the malicious actor?
 
-**Answer:** emkei.cz
+**Answer:** emkei[.]cz
 
 What is the Reply-To email address? 
 
-**Answer:** negeja3921@pashter.com
+**Answer:** negeja3921[@]pashter[.]com
 
 What is the filetype of the received attachment which helped to continue the investigation? *(1 points)*
 
@@ -207,4 +208,4 @@ What is the location of the attacker in this Universe? *(2 points)*
 
 What could be the probable C&C domain to control the attacker’s autonomous bots? *(2 points)*
 
-**Answer:** pashter.com
+**Answer:** pashter[.]com
