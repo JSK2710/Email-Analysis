@@ -65,11 +65,11 @@ CoCanDa, a planet known as 'The Heaven of the Universe' has been having a bad ye
 
 IP Lookup
 
-![image.png](image.png)
+![image.png](/Images/image.png)
 
 MxToolbox Header analyser
 
-![image.png](image%201.png)
+![image.png](/Images/image%201.png)
 
 ---
 
@@ -105,7 +105,7 @@ Lol😂
 See you Major. Waiting for the Cassshhhh💰
 ```
 
-![image.png](image%202.png)
+![image.png](/Images/image%202.png)
 
 ---
 
@@ -118,11 +118,11 @@ See you Major. Waiting for the Cassshhhh💰
 
 Virustotal results on microapple.com
 
-![image.png](image%203.png)
+![image.png](/Images/image%203.png)
 
 Virustotal result on pashter.com
 
-![image.png](image%204.png)
+![image.png](/Images/image%204.png)
 
 ---
 
@@ -132,13 +132,13 @@ Decoding the attachment
 
 Copy the pdf contents and paste it in the cyberchef
 
-![image.png](image%205.png)
+![image.png](/Images/image%205.png)
 
 Cyberchef detected it as a .zip file.
 
 Save the file and extract it.
 
-![image.png](image%206.png)
+![image.png](/Images/image%206.png)
 
 We got 3 file 2 files are normal 1 file is hidden.
 
@@ -154,21 +154,21 @@ Lets rename the first two file with their extensions and view the files. (use on
 
 DaughtersCrown.jpeg
 
-![image.png](image%207.png)
+![image.png](/Images/image%207.png)
 
 GoodJobMajor.pdf
 
-![image.png](image%208.png)
+![image.png](/Images/image%208.png)
 
 Money.xlsx
 
 Sheet 1
 
-![image.png](image%209.png)
+![image.png](/Images/image%209.png)
 
 Sheet 3 - If you Format the cell in black you will get a base64 message
 
-![image.png](image%2010.png)
+![image.png](/Images/image%2010.png)
 
 ```python
 VGhlIE1hcnRpYW4gQ29sb255LCBCZXNpZGUgSW50ZXJwbGFuZXRhcnkgU3BhY2Vwb3J0Lg==
